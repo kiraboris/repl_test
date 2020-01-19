@@ -83,8 +83,3 @@ print(my_time)
 print(my_time.time)
 print(my_time.time())
 
-import my_module
-
-print(my_module)
-print(my_module.hello)
-print(my_module.hello())
